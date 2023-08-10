@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NIGHTMARQ/Weather-App/static/css/main.1008c39f.css",
+    "main.js": "/NIGHTMARQ/Weather-App/static/js/main.7552f81c.js",
+    "static/js/787.d9312eb8.chunk.js": "/NIGHTMARQ/Weather-App/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/NIGHTMARQ/Weather-App/index.html",
+    "main.1008c39f.css.map": "/NIGHTMARQ/Weather-App/static/css/main.1008c39f.css.map",
+    "main.7552f81c.js.map": "/NIGHTMARQ/Weather-App/static/js/main.7552f81c.js.map",
+    "787.d9312eb8.chunk.js.map": "/NIGHTMARQ/Weather-App/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1008c39f.css",
+    "static/js/main.7552f81c.js"
+  ]
+}

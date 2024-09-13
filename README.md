@@ -1,10 +1,11 @@
-# Basic Weather Website 
+# Weatherly
 
 This project was a educational project to understand the use and functionality of the [React](https://react.dev/) Technology.
 
-## Available Scripts
+## Live View
 
-In the project directory, you can run:
+Get a Good View of the Project Here: \
+[Weatherly](https://NIGHTMARQ.github.io/Weather-App)
 
 ### `npm start`
 

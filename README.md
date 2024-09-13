@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Basic Weather Website 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a educational project to understand the use and functionality of the [React](https://react.dev/) Technology.
 
 ## Available Scripts
 
